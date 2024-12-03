@@ -1,2 +1,3 @@
 # Image-Recognition
-本周的python代码学习，并写了一个简单的图像识别
+本周python代码学习
+在学习完python基础之后，简单学习了一下pytorch，熟悉了一下神经网络的搭建以及训练，并写了一个简单的图像识别
